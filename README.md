@@ -65,11 +65,14 @@ Salary distribution patterns revealed disparities across departments.
 The average performance rating could be improved with targeted training.
 
 📂 Repository Structure
+bash
+Copy
+Edit
 
 HR-KPI-Dashboard-Excel/
 ├── HR_KPI_Dashboard.xlsx      # Editable dashboard file
+├── dashboard.png              # Screenshot preview of the dashboard
 └── README.md                  # Project documentation
-
 🚀 How to Use
 
 Download HR_KPI_Dashboard.xlsx from this repository.
@@ -80,3 +83,9 @@ Use the slicers and filters to explore different views.
 
 Review the KPI metrics and charts for insights.
 
+📸 Dashboard Preview
+
+📌 Author
+Dhusyanth R S
+Data Enthusiast | Excel + SQL + Python
+📧 dhasdhas8295@gmail.com
