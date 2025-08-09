@@ -1,37 +1,82 @@
 HR KPI Dashboard (Excel)
 📌 Project Overview
-An interactive Excel dashboard designed to analyze and visualize HR metrics. This project provides actionable insights into workforce demographics, attrition rates, departmental performance, and employee KPIs.
+This project is an interactive HR analytics dashboard built in Microsoft Excel.
+It is designed to help HR departments track workforce metrics, analyze employee performance, and identify actionable insights for decision-making.
 
-The dashboard is built entirely in Microsoft Excel using Pivot Tables, Slicers, Charts, and advanced formulas for real-time analysis.
+The dashboard consolidates raw HR data, transforms it using Pivot Tables and advanced Excel formulas, and presents it in a clean, interactive format.
+Slicers and dynamic charts enable users to filter by department, gender, employment status, and other parameters, giving an instant view of key performance indicators (KPIs).
 
-🎯 Features
-Workforce Overview — total employees, active vs exited staff.
+🎯 Objectives of the Project
+To visualize employee demographics in an interactive way.
 
-Attrition Analysis — track employee turnover trends over time.
+To monitor attrition rates and employee turnover patterns.
 
-Department-wise Insights — compare headcount, salaries, and performance ratings.
+To evaluate department-level performance and resource distribution.
 
-KPI Tracking — monitor employees by performance categories (Outstanding, Great, Average).
+To identify top performers and areas for skill development.
 
-Interactive Filters — use slicers for dynamic data exploration by department, gender, or employment status.
+To present HR data in a way that is accessible and actionable.
 
 🛠️ Tools & Skills Used
-Excel Pivot Tables for data aggregation.
+Excel Features:
 
-Slicers & Filters for interactivity.
+Pivot Tables & Pivot Charts — for summarizing HR metrics.
 
-Charts (Column, Pie, Line) for visual storytelling.
+Slicers — for quick filtering by multiple dimensions.
 
-Formulas: IF, IFS, AVERAGEIF, INDEX-MATCH, ISBLANK, and conditional formatting.
+Conditional Formatting — to highlight trends and exceptions.
 
-📂 Files in This Repository
-HR_KPI_Dashboard.xlsx — Editable Excel file with raw data, pivot tables, and dashboard.
+Formulas:
 
-dashboard.png — Static preview of the final dashboard.
+IF, IFS — conditional categorization.
+
+AVERAGEIF — performance rating analysis.
+
+INDEX-MATCH — dynamic data retrieval.
+
+ISBLANK — data cleaning checks.
+
+Data Preparation:
+
+Cleaned and standardized employee records.
+
+Ensured accurate date formats for tenure calculations.
+
+Created KPI classification rules (Outstanding, Great, Average).
+
+📊 Features of the Dashboard
+Workforce Summary — Displays total employees, current vs exited headcount.
+
+Attrition Analysis — Tracks percentage of employees leaving over time.
+
+Department Overview — Compares staffing levels, salaries, and average performance.
+
+KPI Tracking — Highlights top performers and low performers.
+
+Interactive Filters — Real-time view switching by gender, department, or employment status.
+
+💡 Key Insights
+Certain departments showed higher attrition, indicating possible retention issues.
+
+Top performers were concentrated in specific teams, useful for mentoring programs.
+
+Salary distribution patterns revealed disparities across departments.
+
+The average performance rating could be improved with targeted training.
+
+📂 Repository Structure
+
+HR-KPI-Dashboard-Excel/
+├── HR_KPI_Dashboard.xlsx      # Editable dashboard file
+└── README.md                  # Project documentation
 
 🚀 How to Use
-Download the .xlsx file.
 
-Open in Microsoft Excel (2016 or later for best compatibility).
+Download HR_KPI_Dashboard.xlsx from this repository.
 
-Use slicers and filters to explore different views
+Open it in Microsoft Excel 2016 or later.
+
+Use the slicers and filters to explore different views.
+
+Review the KPI metrics and charts for insights.
+
